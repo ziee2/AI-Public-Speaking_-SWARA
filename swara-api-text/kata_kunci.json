@@ -1,0 +1,203 @@
+{
+            "1": {
+                "title": "Generasi Z Lebih Produktif di Dunia Digital daripada di Dunia Nyata",
+                "keywords": [
+                    "produktivitas", "media sosial", "digitalisasi", "multitasking",
+                    "kebiasaan online", "self-branding", "fokus", "distraksi",
+                    "keseimbangan", "realitas sosial"
+                ],
+                "variants": {
+                    "produktivitas": ["produktif", "efisiensi", "efektif", "hasil kerja"],
+                    "media sosial": ["medsos", "sosmed", "platform digital", "jejaring sosial"],
+                    "digitalisasi": ["digital", "teknologi digital", "dunia digital", "era digital"],
+                    "multitasking": ["multi tasking", "banyak tugas", "kerja simultan"],
+                    "kebiasaan online": ["kebiasaan daring", "aktivitas online", "perilaku digital"],
+                    "self-branding": ["personal branding", "citra diri", "branding diri"],
+                    "fokus": ["konsentrasi", "perhatian", "atensi"],
+                    "distraksi": ["gangguan", "pengalih perhatian", "distorsi fokus"],
+                    "keseimbangan": ["balance", "seimbang", "proporsi"],
+                    "realitas sosial": ["kehidupan sosial", "interaksi sosial", "dunia nyata"]
+                }
+            },
+            "2": {
+                "title": "Kebebasan Berpendapat di Media Sosial Justru Mengancam Etika Komunikasi",
+                "keywords": [
+                    "kebebasan berekspresi", "hate speech", "netizen", "literasi digital",
+                    "tanggung jawab", "komentar", "polarisasi", "etika",
+                    "cancel culture", "privasi"
+                ],
+                "variants": {
+                    "kebebasan berekspresi": ["kebebasan berpendapat", "freedom of speech", "bebas bicara"],
+                    "hate speech": ["ujaran kebencian", "ucapan kebencian", "konten negatif"],
+                    "netizen": ["warganet", "pengguna internet", "masyarakat digital"],
+                    "literasi digital": ["melek digital", "pemahaman digital", "edukasi digital"],
+                    "tanggung jawab": ["responsibility", "akuntabilitas", "pertanggungjawaban"],
+                    "komentar": ["comment", "respon", "feedback"],
+                    "polarisasi": ["perpecahan", "kubu-kubuan", "dikotomi"],
+                    "etika": ["moral", "norma", "sopan santun", "adab"],
+                    "cancel culture": ["budaya membatalkan", "boikot sosial"],
+                    "privasi": ["privacy", "data pribadi", "kerahasiaan"]
+                }
+            },
+            "3": {
+                "title": "Media Sosial Lebih Banyak Merusak Kesehatan Mental daripada Membantu Ekspresi Diri",
+                "keywords": [
+                    "self-esteem", "validasi sosial", "perbandingan", "overthinking",
+                    "toxic positivity", "citra diri", "dopamine", "burnout",
+                    "kesehatan mental", "eksposur publik"
+                ],
+                "variants": {
+                    "self-esteem": ["harga diri", "kepercayaan diri", "rasa percaya diri"],
+                    "validasi sosial": ["pengakuan sosial", "approval", "penerimaan sosial"],
+                    "perbandingan": ["comparison", "membandingkan", "komparasi"],
+                    "overthinking": ["berpikir berlebihan", "overthink", "cemas berlebihan"],
+                    "toxic positivity": ["positif berlebihan", "positifitas toksik"],
+                    "citra diri": ["body image", "self image", "penampilan diri"],
+                    "dopamine": ["hormon bahagia", "reward system"],
+                    "burnout": ["kelelahan mental", "jenuh", "exhausted"],
+                    "kesehatan mental": ["mental health", "kondisi mental", "psikologis"],
+                    "eksposur publik": ["paparan publik", "tampil di publik", "visibilitas"]
+                }
+            },
+            "4": {
+                "title": "Budaya Gotong Royong Mulai Luntur di Era Individualisme Digital",
+                "keywords": [
+                    "solidaritas", "empati", "komunitas", "kesibukan",
+                    "gaya hidup modern", "isolasi sosial", "partisipasi", "nilai budaya",
+                    "relasi sosial", "kebersamaan"
+                ],
+                "variants": {
+                    "solidaritas": ["kebersamaan", "kekompakan", "saling membantu"],
+                    "empati": ["simpati", "kepedulian", "rasa iba"],
+                    "komunitas": ["masyarakat", "kelompok", "perkumpulan"],
+                    "kesibukan": ["busy", "aktivitas padat", "rutinitas"],
+                    "gaya hidup modern": ["lifestyle modern", "kehidupan modern", "modernisasi"],
+                    "isolasi sosial": ["terisolasi", "menyendiri", "kesepian sosial"],
+                    "partisipasi": ["keterlibatan", "peran serta", "kontribusi"],
+                    "nilai budaya": ["budaya", "tradisi", "kearifan lokal"],
+                    "relasi sosial": ["hubungan sosial", "interaksi", "pertemanan"],
+                    "kebersamaan": ["togetherness", "kolektif", "gotong royong"]
+                }
+            },
+            "5": {
+                "title": "Produk Lokal Layak Jadi Kebanggaan Nasional di Tengah Gempuran Globalisasi",
+                "keywords": [
+                    "UMKM", "inovasi", "branding", "ekonomi kreatif",
+                    "ekspor", "identitas budaya", "daya saing", "kreativitas",
+                    "kemandirian", "nasionalisme"
+                ],
+                "variants": {
+                    "UMKM": ["usaha kecil", "UKM", "wirausaha", "pelaku usaha"],
+                    "inovasi": ["inovatif", "kreasi baru", "terobosan"],
+                    "branding": ["merek", "citra produk", "brand"],
+                    "ekonomi kreatif": ["industri kreatif", "creative economy"],
+                    "ekspor": ["export", "perdagangan luar negeri", "pasar global"],
+                    "identitas budaya": ["jati diri", "ciri khas", "karakteristik budaya"],
+                    "daya saing": ["kompetitif", "keunggulan", "competitiveness"],
+                    "kreativitas": ["kreatif", "daya cipta", "imajinatif"],
+                    "kemandirian": ["mandiri", "independen", "swasembada"],
+                    "nasionalisme": ["cinta tanah air", "patriotisme", "bangga Indonesia"]
+                }
+            },
+            "6": {
+                "title": "Uang Bukan Tolak Ukur Kebahagiaan",
+                "keywords": [
+                    "kesejahteraan", "mental health", "gaya hidup", "materialisme",
+                    "kesederhanaan", "prioritas", "hubungan sosial", "gratitude",
+                    "keseimbangan", "nilai hidup"
+                ],
+                "variants": {
+                    "kesejahteraan": ["well-being", "sejahtera", "kemakmuran"],
+                    "mental health": ["kesehatan mental", "psikologis", "kondisi jiwa"],
+                    "gaya hidup": ["lifestyle", "pola hidup", "cara hidup"],
+                    "materialisme": ["materialistik", "konsumtif", "hedonisme"],
+                    "kesederhanaan": ["sederhana", "simple", "minimalis"],
+                    "prioritas": ["hal penting", "yang utama", "fokus utama"],
+                    "hubungan sosial": ["relasi", "pertemanan", "keluarga"],
+                    "gratitude": ["syukur", "bersyukur", "rasa terima kasih"],
+                    "keseimbangan": ["balance", "seimbang", "harmoni"],
+                    "nilai hidup": ["makna hidup", "filosofi hidup", "prinsip"]
+                }
+            },
+            "7": {
+                "title": "Teknologi Membuat Manusia Semakin Malas Berpikir Kritis",
+                "keywords": [
+                    "AI", "otomatisasi", "kenyamanan", "ketergantungan",
+                    "literasi digital", "algoritma", "kecepatan informasi", "refleksi",
+                    "kreativitas", "kesadaran"
+                ],
+                "variants": {
+                    "AI": ["artificial intelligence", "kecerdasan buatan", "machine learning"],
+                    "otomatisasi": ["automasi", "serba otomatis", "automation"],
+                    "kenyamanan": ["kemudahan", "comfort", "efisiensi"],
+                    "ketergantungan": ["addiction", "kecanduan", "bergantung"],
+                    "literasi digital": ["melek digital", "pemahaman teknologi"],
+                    "algoritma": ["algorithm", "sistem", "pola"],
+                    "kecepatan informasi": ["informasi cepat", "instant information"],
+                    "refleksi": ["renungan", "introspeksi", "contemplation"],
+                    "kreativitas": ["kreatif", "inovasi", "imajinasi"],
+                    "kesadaran": ["awareness", "mindfulness", "sadar"]
+                }
+            },
+            "8": {
+                "title": "Literasi Membaca di Kalangan Anak Muda Indonesia Masih Rendah",
+                "keywords": [
+                    "minat baca", "gadget", "media sosial", "budaya literasi",
+                    "pendidikan", "akses buku", "kebiasaan", "digital reading",
+                    "perpustakaan", "edukasi"
+                ],
+                "variants": {
+                    "minat baca": ["reading interest", "gemar membaca", "hobi baca"],
+                    "gadget": ["gawai", "smartphone", "perangkat digital"],
+                    "media sosial": ["medsos", "sosmed", "platform digital"],
+                    "budaya literasi": ["literacy culture", "tradisi membaca"],
+                    "pendidikan": ["education", "pembelajaran", "sekolah"],
+                    "akses buku": ["ketersediaan buku", "availability", "jangkauan buku"],
+                    "kebiasaan": ["habit", "rutinitas", "pola"],
+                    "digital reading": ["membaca digital", "e-book", "bacaan online"],
+                    "perpustakaan": ["library", "taman bacaan", "pojok baca"],
+                    "edukasi": ["education", "pembelajaran", "pengajaran"]
+                }
+            },
+            "9": {
+                "title": "Standar Kecantikan di Media Sosial Menyebabkan Krisis Percaya Diri",
+                "keywords": [
+                    "body image", "filter", "influencer", "estetika",
+                    "kesehatan mental", "tren", "citra diri", "autentisitas",
+                    "tekanan sosial", "representasi"
+                ],
+                "variants": {
+                    "body image": ["citra tubuh", "penampilan fisik", "bentuk tubuh"],
+                    "filter": ["filter wajah", "edit foto", "beautify"],
+                    "influencer": ["content creator", "selebgram", "public figure"],
+                    "estetika": ["aesthetic", "keindahan", "penampilan"],
+                    "kesehatan mental": ["mental health", "psikologis", "kondisi jiwa"],
+                    "tren": ["trend", "mode", "viral"],
+                    "citra diri": ["self image", "harga diri", "kepercayaan diri"],
+                    "autentisitas": ["keaslian", "authentic", "natural"],
+                    "tekanan sosial": ["social pressure", "tuntutan sosial"],
+                    "representasi": ["representation", "gambaran", "potret"]
+                }
+            },
+            "10": {
+                "title": "Hukuman untuk Pelaku Korupsi di Indonesia Masih Terlalu Ringan",
+                "keywords": [
+                    "hukum", "integritas", "keadilan", "KPK",
+                    "sistem peradilan", "sanksi", "efek jera", "moralitas",
+                    "kepercayaan publik", "reformasi hukum"
+                ],
+                "variants": {
+                    "hukum": ["law", "peraturan", "regulasi", "legal"],
+                    "integritas": ["kejujuran", "accountability", "transparansi"],
+                    "keadilan": ["justice", "fairness", "adil"],
+                    "KPK": ["komisi pemberantasan korupsi", "lembaga antikorupsi"],
+                    "sistem peradilan": ["pengadilan", "judicial system", "proses hukum"],
+                    "sanksi": ["hukuman", "punishment", "vonis"],
+                    "efek jera": ["deterrent effect", "pembelajaran", "pencegahan"],
+                    "moralitas": ["moral", "etika", "nilai"],
+                    "kepercayaan publik": ["trust", "kredibilitas", "public trust"],
+                    "reformasi hukum": ["perbaikan hukum", "pembaruan sistem"]
+                }
+            }
+        }
+    
